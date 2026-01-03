@@ -3,7 +3,7 @@
 
 如果你想拥有自己的图标库镜像，可以将该项目部署到 Cloudflare Pages。
 
-1. **Fork 项目**：在 GitHub 上 Fork [alrra/browser-logos](https://github.com/alrra/browser-logos) 仓库。
+1. **Fork 项目**：在 GitHub 上 Fork [sincalforge/browser-logos](https://github.com/sincalforge/browser-logos) 仓库。
 2. **连接 Cloudflare**：登录 Cloudflare 控制台，进入 **Workers & Pages** -> **Create application** -> **Pages** -> **Connect to Git**。
 3. **选择仓库**：选择你 Fork 的那个仓库。
 4. **配置构建**：
